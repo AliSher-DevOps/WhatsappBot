@@ -1,0 +1,7 @@
+
+open cmd and type these cmd  
+1. Install Selenium by running the command −
+    pip install selenium
+    pip install pandas
+
+2. Once you install selenium open command promt in ur system go to directory/location where u unzip project folder whatsappBot go into the whatsappBot folder and type python once python interpretor will  start run the script whatsappAutoReplies.py 
